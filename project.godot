@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="Simple Dynamic Themes"
+run/main_scene="res://scenes/simple-dynamic-themes/simple-dynamic-themes.tscn"
 config/icon="res://icon.png"
 
 [gui]
